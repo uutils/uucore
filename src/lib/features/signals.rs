@@ -1,11 +1,9 @@
-/*
- * This file is part of the uutils coreutils package.
- *
- * (c) Maciej Dziardziel <fiedzia@gmail.com>
- *
- * For the full copyright and license information, please view the LICENSE file
- * that was distributed with this source code.
- */
+// This file is part of the uutils coreutils package.
+//
+// (c) Maciej Dziardziel <fiedzia@gmail.com>
+//
+// For the full copyright and license information, please view the LICENSE file
+// that was distributed with this source code.
 
 // spell-checker:ignore (vars/api) fcntl setrlimit setitimer
 // spell-checker:ignore (vars/signals) ABRT ALRM CHLD SEGV SIGABRT SIGALRM SIGBUS SIGCHLD SIGCONT SIGEMT SIGFPE SIGHUP SIGILL SIGINFO SIGINT SIGIO SIGIOT SIGKILL SIGPIPE SIGPROF SIGQUIT SIGSEGV SIGSTOP SIGSYS SIGTERM SIGTRAP SIGTSTP SIGTTIN SIGTTOU SIGURG SIGUSR SIGVTALRM SIGWINCH SIGXCPU SIGXFSZ STKFLT TSTP TTIN TTOU VTALRM XCPU XFSZ
