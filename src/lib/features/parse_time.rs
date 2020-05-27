@@ -7,6 +7,8 @@
  * file that was distributed with this source code.
  */
 
+// spell-checker:ignore () NANOS fract numstr trunc
+
 use std::time::Duration;
 
 pub fn from_str(string: &str) -> Result<Duration, String> {
